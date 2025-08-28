@@ -1,1 +1,1 @@
-GOOGLE_API_KEY = "secret-key"
+GOOGLE_API_KEY = "abc"
