@@ -1,0 +1,14 @@
+[project]
+name = "product-recommendation-bot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi>=0.116.1",
+    "google-genai>=1.31.0",
+    "langchain>=0.3.27",
+    "langchain-google-genai>=2.1.10",
+    "streamlit>=1.49.0",
+    "uvicorn>=0.35.0",
+]
